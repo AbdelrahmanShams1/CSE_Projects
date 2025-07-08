@@ -26,13 +26,13 @@ const GraduationProjects = () => {
       id: "1",
       startTime: "2025-07-05 22:27:24",
       completionTime: "2025-07-05 22:27:49",
+      imageUrl: "/—Pngtree—global data security personal data_1752646.jpg",
       email: "MAHER.Gomaa1411213@el-eng.menofia.edu.eg",
       name: "ماهر جمعه اسماعيل سيد",
       projectTitleAr: "تأمين النظم الحساسة بإستخدام منهجيات الذكاء الاصطناعي",
       projectTitleEn:
         "Securing sensitive systems using artificial intelligence methodologies",
       supervisorAr: "مروه احمد شومان",
-      imageUrl: "/—Pngtree—global data security personal data_1752646.jpg",
       supervisorEn: "Marwa Ahmed Shouman",
       teamMembers:
         "ماهر جمعه اسماعيل سيد(قائد الفريق , مصمم نظام التأمين , مدرب موديل الذكاء الاصطناعي ) -علياء نبيل علي مصطفى ( مصممة الواجهة ) - فاطمه ايهاب عبدلله كامل ( مصمة الواجهة)",
@@ -49,8 +49,8 @@ const GraduationProjects = () => {
     {
       id: "2",
       startTime: "2025-07-05 22:34:26",
-      imageUrl: "/WhatsApp Image 2025-07-08 at 09.59.08_163a64a9.jpg",
       completionTime: "2025-07-05 23:07:58",
+      imageUrl: "/WhatsApp Image 2025-07-08 at 10.00.12_4be6af3a.jpg",
       email: "1900444@el-eng.menofia.edu.eg",
       name: "معاذ انور محمد على سليمان",
       projectTitleAr:
@@ -121,79 +121,62 @@ const GraduationProjects = () => {
     }
   };
 
-  {
-    /* Header section */
-  }
-  <header className="bg-white shadow-md py-4 px-6 flex items-center justify-between">
-    {/* University Logo */}
-    <img
-      src="/images/university-logo.png" // ضع هنا مسار شعار الجامعة
-      alt="شعار الجامعة"
-      className="w-20 h-20 object-contain"
-    />
-
-    {/* University Name Image */}
-    <img
-      src="/images/university-name.png" // ضع هنا صورة مكتوب فيها اسم الجامعة
-      alt="اسم الجامعة"
-      className="h-16 object-contain"
-    />
-  </header>;
-
   if (selectedProject) {
     const IconComponent = getCategoryIcon(selectedProject.category);
 
     return (
       <div
-        className="min-h-screen bg-gray-50"
+        className="fixed inset-0 bg-gray-50 overflow-y-auto z-50"
         style={{ fontFamily: "Cairo, sans-serif" }}
       >
         <div className="max-w-6xl mx-auto py-8 px-4">
           {/* Header */}
-          <div className="mb-8">
+          <div className="mb-8 flex justify-between items-center">
             <button
               onClick={() => setSelectedProject(null)}
-              className="flex items-center gap-2 text-white px-4 py-2 rounded-lg hover:opacity-80 transition-opacity mb-4"
+              className="flex items-center gap-2 text-white px-4 py-2 rounded-lg hover:opacity-80 transition-opacity"
               style={{ backgroundColor: "#176d6a" }}
             >
               <ArrowLeft className="w-4 h-4" />
               العودة للقائمة
             </button>
+
+            <div
+              className={`bg-[#176d6a] text-white px-4 py-2 rounded-full text-sm font-medium flex items-center gap-2`}
+            >
+              <IconComponent className="w-4 h-4" />
+              {getCategoryName(selectedProject.category)}
+            </div>
           </div>
 
           {/* Project Details */}
-          <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
+          <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
             {/* Main Content */}
             <div className="lg:col-span-2 space-y-6">
-              {selectedProject.imageUrl && (
-                <div className="bg-white rounded-lg shadow-md p-6 flex justify-between items-center">
-                  <div className="text-center">
-                    <div className="flex items-center justify-center gap-2 mb-4">
-                      <div>
-                        <h1 className="text-2xl font-bold text-gray-800">
-                          {selectedProject.projectTitleAr}
-                        </h1>
-                        <p className="text-xl text-gray-600 mt-1">
-                          {selectedProject.projectTitleEn}
-                        </p>
-                      </div>
-                    </div>
-                    <span
-                      className="inline-block px-4 py-2 rounded-full text-white text-sm font-medium"
-                      style={{ backgroundColor: "#176d6a" }}
-                    >
-                      {getCategoryName(selectedProject.category)}
+              {/* Project Header */}
+              <div className="bg-white rounded-xl shadow-lg p-6 flex flex-col md:flex-row justify-between rtl items-center gap-6">
+                <img
+                  src={selectedProject.imageUrl}
+                  className="w-[300px] h-[300px] rounded-lg"
+                />
+                <div className="text-center md:text-right">
+                  <h1 className="text-2xl font-bold text-gray-800">
+                    {selectedProject.projectTitleAr}
+                  </h1>
+                  <p className="text-lg text-gray-600 mt-2">
+                    {selectedProject.projectTitleEn}
+                  </p>
+                  <div className="mt-4 flex flex-wrap gap-2 justify-center">
+                    <span className="inline-flex items-center gap-1 bg-gray-100 px-3 py-1 rounded-full text-sm">
+                      <User className="w-4 h-4 text-gray-600" />
+                      {selectedProject.name}
                     </span>
                   </div>
-                  <img
-                    src={selectedProject.imageUrl}
-                    alt="صورة المشروع"
-                    className="w-[250px] h-[250px] rounded-md"
-                  />
                 </div>
-              )}
+              </div>
+
               {/* Arabic Description */}
-              <div className="bg-white rounded-lg shadow-md p-6">
+              <div className="bg-white rounded-xl shadow-lg p-6">
                 <h2 className="text-xl font-semibold mb-4 text-gray-800 flex items-center gap-2">
                   <FileText className="w-5 h-5" style={{ color: "#176d6a" }} />
                   وصف المشروع بالعربية
@@ -204,7 +187,7 @@ const GraduationProjects = () => {
               </div>
 
               {/* English Description */}
-              <div className="bg-white rounded-lg shadow-md p-6">
+              <div className="bg-white rounded-xl shadow-lg p-6">
                 <h2 className="text-xl font-semibold mb-4 text-gray-800 flex items-center gap-2">
                   <FileText className="w-5 h-5" style={{ color: "#176d6a" }} />
                   Project Description
@@ -215,7 +198,7 @@ const GraduationProjects = () => {
               </div>
 
               {/* Technologies */}
-              <div className="bg-white rounded-lg shadow-md p-6">
+              <div className="bg-white rounded-xl shadow-lg p-6">
                 <h2 className="text-xl font-semibold mb-4 text-gray-800 flex items-center gap-2">
                   <Code className="w-5 h-5" style={{ color: "#176d6a" }} />
                   التقنيات المستخدمة
@@ -238,7 +221,7 @@ const GraduationProjects = () => {
             {/* Sidebar */}
             <div className="space-y-6">
               {/* Supervisor */}
-              <div className="bg-white rounded-lg shadow-md p-6">
+              <div className="bg-white rounded-xl shadow-lg p-6">
                 <h3 className="text-lg font-semibold mb-3 text-gray-800 flex items-center gap-2">
                   <User className="w-5 h-5" style={{ color: "#176d6a" }} />
                   المشرف
@@ -254,7 +237,7 @@ const GraduationProjects = () => {
               </div>
 
               {/* Team Members */}
-              <div className="bg-white rounded-lg shadow-md p-6">
+              <div className="bg-white rounded-xl shadow-lg p-6">
                 <h3 className="text-lg font-semibold mb-3 text-gray-800 flex items-center gap-2">
                   <Users className="w-5 h-5" style={{ color: "#176d6a" }} />
                   أعضاء الفريق
@@ -263,8 +246,11 @@ const GraduationProjects = () => {
                   {selectedProject.teamMembers
                     .split(/[\\-]/)
                     .map((member, index) => (
-                      <div key={index} className="p-3 bg-gray-50 rounded-lg">
-                        <p className="text-sm text-gray-700 text-right leading-relaxed">
+                      <div
+                        key={index}
+                        className="p-3 bg-gray-50 rounded-lg flex items-start"
+                      >
+                        <p className="text-sm text-gray-700 text-right leading-relaxed mr-2">
                           {member.trim()}
                         </p>
                       </div>
@@ -273,33 +259,39 @@ const GraduationProjects = () => {
               </div>
 
               {/* Project Info */}
-              <div className="bg-white rounded-lg shadow-md p-6">
+              <div className="bg-white rounded-xl shadow-lg p-6">
                 <h3 className="text-lg font-semibold mb-3 text-gray-800 flex items-center gap-2">
                   <Calendar className="w-5 h-5" style={{ color: "#176d6a" }} />
                   معلومات المشروع
                 </h3>
-                <div className="space-y-2 text-sm">
-                  <p>
-                    <span className="font-medium">تاريخ البدء:</span>{" "}
-                    {new Date(selectedProject.startTime).toLocaleDateString(
-                      "ar-EG"
-                    )}
-                  </p>
-                  <p>
-                    <span className="font-medium">تاريخ الانتهاء:</span>{" "}
-                    {new Date(
-                      selectedProject.completionTime
-                    ).toLocaleDateString("ar-EG")}
-                  </p>
-                  <p>
-                    <span className="font-medium">البريد الإلكتروني:</span>{" "}
-                    {selectedProject.email}
-                  </p>
+                <div className="space-y-3 text-sm">
+                  <div className="flex justify-between items-center">
+                    <span className="font-medium">تاريخ البدء:</span>
+                    <span>
+                      {new Date(selectedProject.startTime).toLocaleDateString(
+                        "ar-EG"
+                      )}
+                    </span>
+                  </div>
+                  <div className="flex justify-between items-center">
+                    <span className="font-medium">تاريخ الانتهاء:</span>
+                    <span>
+                      {new Date(
+                        selectedProject.completionTime
+                      ).toLocaleDateString("ar-EG")}
+                    </span>
+                  </div>
+                  <div className="flex justify-between items-center">
+                    <span className="font-medium">البريد الإلكتروني:</span>
+                    <span className="text-teal-600">
+                      {selectedProject.email}
+                    </span>
+                  </div>
                 </div>
               </div>
 
               {/* Document Link */}
-              <div className="bg-white rounded-lg shadow-md p-6">
+              <div className="bg-white rounded-xl shadow-lg p-6">
                 <h3 className="text-lg font-semibold mb-3 text-gray-800">
                   الوثائق
                 </h3>
@@ -340,7 +332,6 @@ const GraduationProjects = () => {
             style={{ backgroundColor: "#176d6a" }}
           ></div>
         </div>
-
         {/* Filter Section */}
         <div className="mb-8">
           <div className="flex items-center gap-4 mb-4">
@@ -372,77 +363,63 @@ const GraduationProjects = () => {
             })}
           </div>
         </div>
-
         {/* Projects Table */}
-        <div className="bg-white rounded-lg shadow-md overflow-hidden">
-          <div className="overflow-x-auto">
-            <table className="w-full">
-              <thead style={{ backgroundColor: "#176d6a" }}>
-                <tr className="text-white">
-                  <th className="px-6 py-4 text-right font-semibold">
-                    اسم المشروع
-                  </th>
-                  <th className="px-6 py-4 text-right font-semibold">
-                    قائد الفريق
-                  </th>
-                  <th className="px-6 py-4 text-right font-semibold">المشرف</th>
-                  <th className="px-6 py-4 text-right font-semibold">النوع</th>
-                  <th className="px-6 py-4 text-center font-semibold">
-                    الإجراءات
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                {filteredProjects.map((project, index) => {
-                  const IconComponent = getCategoryIcon(project.category);
-                  return (
-                    <tr
-                      key={project.id}
-                      className={index % 2 === 0 ? "bg-gray-50" : "bg-white"}
-                    >
-                      <td className="px-6 py-4">
-                        <div className="text-right">
-                          <h3 className="font-medium text-gray-800">
-                            {project.projectTitleAr}
-                          </h3>
-                          <p className="text-sm text-gray-500 mt-1">
-                            {project.projectTitleEn}
-                          </p>
-                        </div>
-                      </td>
-                      <td className="px-6 py-4 text-right text-gray-700">
-                        {project.name}
-                      </td>
-                      <td className="px-6 py-4 text-right text-gray-700">
-                        {project.supervisorAr}
-                      </td>
-                      <td className="px-6 py-4">
-                        <span
-                          className="inline-flex items-center gap-2 px-3 py-1 rounded-full text-white text-sm"
-                          style={{ backgroundColor: "#176d6a" }}
-                        >
-                          <IconComponent className="w-4 h-4" />
-                          {getCategoryName(project.category)}
-                        </span>
-                      </td>
-                      <td className="px-6 py-4 text-center">
-                        <button
-                          onClick={() => setSelectedProject(project)}
-                          className="inline-flex items-center gap-2 text-white px-4 py-2 rounded-lg hover:opacity-80 transition-opacity"
-                          style={{ backgroundColor: "#176d6a" }}
-                        >
-                          <Eye className="w-4 h-4" />
-                          عرض التفاصيل
-                        </button>
-                      </td>
-                    </tr>
-                  );
-                })}
-              </tbody>
-            </table>
-          </div>
-        </div>
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-3">
+          {filteredProjects.map((project) => {
+            const IconComponent = getCategoryIcon(project.category);
 
+            return (
+              <div
+                key={project.id}
+                className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow"
+              >
+                <div className="p-6">
+                  <div className="flex justify-between items-start mb-4">
+                    <div>
+                      <div
+                        className={`bg-[#176d6a] text-white   font-medium inline-flex items-center  mb-2`}
+                      >
+                        <img src={project.imageUrl} />
+                      </div>
+                      <h3 className="text-lg font-bold text-gray-800">
+                        {project.projectTitleAr}
+                      </h3>
+                      <p className="text-sm text-gray-600 mt-1">
+                        {project.projectTitleEn}
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="mt-4 flex flex-wrap gap-2">
+                    <span className="inline-flex items-center gap-1 bg-gray-100 px-3 py-1 rounded-full text-xs">
+                      <User className="w-3 h-3 text-gray-600" />
+                      {project.name}
+                    </span>
+                    <span className="inline-flex items-center gap-1 bg-gray-100 px-3 py-1 rounded-full text-xs">
+                      <User className="w-3 h-3 text-gray-600" />
+                      {project.supervisorAr}
+                    </span>
+                  </div>
+
+                  <p className="text-gray-600 text-sm mt-4 line-clamp-2">
+                    {project.descriptionAr}
+                  </p>
+
+                  <div className="mt-6 flex justify-center items-center">
+                    <button
+                      onClick={() => setSelectedProject(project)}
+                      className="inline-flex items-center gap-1 text-white px-4 py-2 rounded-lg hover:opacity-90 transition-opacity"
+                      style={{ backgroundColor: "#176d6a" }}
+                    >
+                      <Eye className="w-4 h-4" />
+                      <span>عرض التفاصيل</span>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            );
+          })}
+        </div>
         {/* Projects Summary */}
         <div className="mt-8 text-center">
           <p className="text-gray-600">
