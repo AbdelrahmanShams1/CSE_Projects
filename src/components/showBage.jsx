@@ -32,8 +32,7 @@ const GraduationProjects = () => {
       projectTitleEn:
         "Securing sensitive systems using artificial intelligence methodologies",
       supervisorAr: "مروه احمد شومان",
-      imageUrl:
-        "https://github.com/AbdelrahmanShams1/Template_One/blob/main/%E2%80%94Pngtree%E2%80%94global%20data%20security%20personal%20data_1752646.jpg",
+      imageUrl: "/public/WhatsApp Image 2025-07-08 at 09.59.08_163a64a9.jpg",
       supervisorEn: "Marwa Ahmed Shouman",
       teamMembers:
         "ماهر جمعه اسماعيل سيد(قائد الفريق , مصمم نظام التأمين , مدرب موديل الذكاء الاصطناعي ) -علياء نبيل علي مصطفى ( مصممة الواجهة ) - فاطمه ايهاب عبدلله كامل ( مصمة الواجهة)",
@@ -50,8 +49,7 @@ const GraduationProjects = () => {
     {
       id: "2",
       startTime: "2025-07-05 22:34:26",
-      imageUrl:
-        "/public/—Pngtree—global data security personal data_1752646.jpg",
+      imageUrl: "/public/WhatsApp Image 2025-07-08 at 09.59.08_163a64a9.jpg",
       completionTime: "2025-07-05 23:07:58",
       email: "1900444@el-eng.menofia.edu.eg",
       name: "معاذ انور محمد على سليمان",
