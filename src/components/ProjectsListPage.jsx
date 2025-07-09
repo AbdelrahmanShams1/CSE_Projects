@@ -140,7 +140,7 @@ const ProjectsListPage = ({ onProjectSelect }) => {
             {/* الصورة على الشمال */}
             <div className="w-[50px] h-[50px] md:w-[150px] md:h-[70px]">
               <img
-                src="/public/WhatsApp Image 2025-07-08 at 10.00.12_4be6af3a.jpg"
+                src="/WhatsApp Image 2025-07-08 at 10.00.12_4be6af3a.jpg"
                 alt="صورة الكلية"
                 className="w-full h-full object-contain"
               />
@@ -166,7 +166,7 @@ const ProjectsListPage = ({ onProjectSelect }) => {
             {/* لوجو الجامعة على اليمين */}
             <div className="w-20 h-20 md:w-24 md:h-24">
               <img
-                src="/public/WhatsApp Image 2025-07-08 at 09.59.08_163a64a9.jpg"
+                src="/WhatsApp Image 2025-07-08 at 09.59.08_163a64a9.jpg"
                 alt="لوجو الجامعة"
                 className="w-full h-full object-contain"
               />
