@@ -14,7 +14,7 @@
     "descriptionEn": "The SecSys Security System is a comprehensive security solution designed for sensitive organizations, offering real-time monitoring, intelligent threat detection, and an intuitive control interface. It leverages advanced technologies, including Flask for the backend, HTML/CSS/JavaScript for the frontend, and TensorFlow and OpenCV for image and audio analysis, with features such as emotion detection and anomaly sound identification. The system includes notifications to police vehicles and stations, calculates the nearest routes for all vehicles considering traffic congestion, and incorporates a proprietary encryption system for sensitive data, developed innovatively by the project team.",
     "technologies": "Python Flask HTML CSS JavaScript TensorFlow OpenCV SQLAlchemy Docker",
     "category": "security",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7B692FEA22-935F-478A-8CB9-B3C0DEE51F40%7D&file=SecSys_%D9%85%D8%A7%D9%87%D8%B1%20%D8%AC%D9%85%D8%B9%D9%87%20%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7B692FEA22-935F-478A-8CB9-B3C0DEE51F40%7D&file=SecSys_%D9%85%D8%A7%D9%87%D8%B1%20%D8%AC%D9%85%D8%B9%D9%87%20%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84%20%D8%B3%D9%8A.docx&action=default&mobileredirect=true"
   },
   {
     "id": "2",
@@ -48,7 +48,7 @@
     "descriptionEn": "Therapia is a comprehensive and intelligent health assistance web application designed to enhance communication and coordination between patients and healthcare professionals such as doctors, nutritionists, and fitness trainers. The platform enables patients to subscribe to one or more professionals based on their needs and submit daily health, diet, or exercise reports through a simple and intuitive interface. Each user role—patient, professional, and administrator—is provided with a dedicated dashboard that offers features tailored to their responsibilities. Professionals can review patient reports, offer feedback, and track patient progress over time. The platform also facilitates secure, realtime messaging to support continuous care. To ensure scalability and efficient management, Therapia incorporates an admin panel that manages professional subscriptions, payments, and systemwide settings. Subscription packages allow professionals to choose the number of patients they can support, creating a flexible and fair pricing model. The system was built using ASP.NET Core for the backend, SQL Server for database management, and Angular for frontend styling. Emphasizing modular architecture, data security, and rolebased access control, Therapia aims to provide a reliable, userfriendly, and professional digital healthcare management experience. It addresses the growing demand for remote healthcare solutions and contributes to the ongoing digital transformation in the medical and wellness sectors.",
     "technologies": "ASP.NET Core Web API Angular Framework Integration between ASP.NET Core and Angular / REST API Git / git hub hosting",
     "category": "software",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BBD006105-CEB0-435E-91EF-F06CA154D58C%7D&file=rahma%20project_RAHMA%20SALAHALDEEN.docx&action=default&mobileredirect=true"
   },
   {
     "id": "4",
@@ -65,7 +65,7 @@
     "descriptionEn": "The project aims to develop a real-time Arabic Sign Language recognition system using only a camera. It leverages MediaPipe to extract hand landmarks and feeds them into a neural network classifier for accurate recognition of static signs. The system is designed to facilitate communication between the deaf community and the hearing population using AI and computer vision technologies.",
     "technologies": "Python,Scikit-learn,Pandas & NumPy,FastAPI,Flask ,SQLite ,Flutter ,Dart ,Docker ,Git & GitHub,Raspberry Pi 4,Draw.io,Markdown",
     "category": "ai",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7B6AC480EB-65E5-4CA3-9028-FA31F42E8EBE%7D&file=Cover%20Page%20(2)_AbdAlrahaman%20MAGDY.docx&action=default&mobileredirect=true"
   },
   {
     "id": "5",
@@ -82,7 +82,7 @@
     "descriptionEn": "Cloud-native e-commerce platform built using a microservices architecture. It integrates a wide range of DevOps and cloud technologies to ensure scalability, maintainability, and automation.\nThe system is fully containerized using Docker and orchestrated with Kubernetes, utilizing Helm for efficient deployment and management. Infrastructure is provisioned via Terraform (IaC) and configured using Ansible. The platform is deployed on AWS, benefiting from services like EC2, Load Balancer, and WAF. CI/CD pipelines are implemented using Jenkins, and system observability is achieved with Prometheus and Grafana.\nThis project demonstrates the practical application of DevOps principles and cloud technologies in delivering a robust, scalable, and automated production-grade web application.",
     "technologies": "Docker , Kubernetes, AWS ,Terraform, Ansible , Jenkins , Prometheus & Grafana ",
     "category": "software",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BFEE8D98C-3ACB-4BDD-8D58-69BB9606449B%7D&file=project_MOUSTAFA%20IBRAHIEM.docx&action=default&mobileredirect=true"
   },
   {
     "id": "6",
@@ -99,7 +99,7 @@
     "descriptionEn": "This project aims to design and implement an advanced and secure network infrastructure for a central company that acts as a service provider for multiple branch companies. The project involves building a fully integrated network using modern cybersecurity technologies, applying access control policies, and creating separate VLANs for each branch to ensure isolation and security. It includes the setup of essential servers such as DNS, DHCP, Active Directory, and a Web Server. The security framework is implemented using FortiGate firewalls, with firewall policies, VPN solutions for secure remote access, and the application of web filtering and protection against cyberattacks (IPS, DoS). This project serves as a practical simulation of how to build, operate, and secure a scalable enterprise network while following best practices in network security.",
     "technologies": "GNS3 VMware Workstation Windows Server (2019) Linux OS FortiGate VM Windows 10 Kali",
     "category": "networks",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BE2E0207D-59EF-4754-B5DF-2B57DFAF659A%7D&file=Cover%20Page_MAHMOUD%20AHMED.docx&action=default&mobileredirect=true"
   },
   {
     "id": "7",
@@ -116,7 +116,7 @@
     "descriptionEn": "The platform offers integrated healthcare services, combining both public clinics (including health insurance clinics) and private clinics, featuring a team of highly skilled doctors across various specialties. The platform aims to reduce congestion and facilitate access to healthcare through an advanced online booking system and remote medical consultations, ensuring a seamless and secure experience for users. Additionally, the platform provides a range of innovative extra features, including: a Smart Assistant (ChatBot) for instant responses to medical and general inquiries, a BMI Calculator to monitor health status, and a First Aid Guide for providing essential information in emergency situations.",
     "technologies": "ASP.NET Core MVC , mobile app using flutter",
     "category": "software",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/Documents/Apps/Microsoft%20Forms/Graduation%20Projects%20Details%20-%20CSE%20Department,%20FEE/Question/graduation_project_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%20%D8%B1%D8%A8%D9%8A%D8%B9%20%D9%8A%D8%AD%D9%8A%D9%8A.pdf"
   },
   {
     "id": "8",
@@ -133,7 +133,7 @@
     "descriptionEn": "A comprehensive web-based application developed in ASP.NET Core for managing human resources and employee-related administrative tasks for the employees of Menofia University. It is designed to facilitate seamless handling of employee records, organizational structure, financial allowances, job positions, certificates, health statuses, and much more.",
     "technologies": "Framework: ASP.NET Core 8.0 Web API - Language: C# - ORM: Entity Framework Core - Database: SQL Server - Tools: Swagger or Postman for API testing - CI/CD: GitHub Actions, Azure DevOps",
     "category": "software",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BCE72A0F8-7ED0-4679-B6F8-66D10116735F%7D&file=Employee%20Form_%D8%AD%D8%B3%D9%8A%D9%86%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%85%D9%82%D8%B5%D9%88%D8%AF%20%D8%A7%D9%84%D8%B3.docx&action=default&mobileredirect=true"
   },
   {
     "id": "9",
@@ -150,7 +150,7 @@
     "descriptionEn": "The Smart Intercom System is a home security solution designed to enhance safety, access control, and remote monitoring. The system uses an ESP32-CAM as its main controller to capture and transmit real-time images of visitors. A PIR motion sensor detects movement near the entrance, triggering the camera to capture a photo which is uploaded to Firebase. Through a mobile application, users can review unknown faces, authorize trusted individuals, and control door access remotely. If a detected face matches an authorized one, the system automatically unlocks the door. An additional Arduino board may be used to control actuators such as door locks or alarms. This project demonstrates practical use of IoT, computer vision, and real-time database integration in creating a secure and intelligent intercom system.",
     "technologies": "ESP32-CAM, Arduino UNO, Firebase (Realtime Database & Cloud Storage), Face Recognition (OpenCV or cloud-based), PIR Sensor, Mobile App (Flutter)using visual code studio, IoT (Wi-Fi based communication)",
     "category": "embedded",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BA7F00A88-BE30-4AA0-9FD3-EBA210D7AF20%7D&file=smart%20intercom%20project_%D9%87%D8%A7%D8%AC%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B3%D8%B9%D9%8A%D8%AF%20%D8%A7%D8%AD%D9%85%D8%AF.docx&action=default&mobileredirect=true"
   },
   {
     "id": "10",
@@ -167,7 +167,7 @@
     "descriptionEn": "The platform provides comprehensive healthcare services that combine government clinics (including health insurance clinics) and private clinics featuring a selection of the most qualified doctors in various medical specialties. The platform aims to reduce congestion and facilitate access to healthcare through an advanced electronic system that allows for appointment booking and remote medical consultations, ensuring a safe and smooth healthcare experience for users. The platform also offers a range of new and innovative additional features, including a Smart Assistant (ChatBot) for instant responses to medical and general inquiries, a BMI Calculator to help users monitor their health status, and a First Aid Guide to provide essential information in emergency situations.",
     "technologies": "ASP.NET Core MVC , mobile app using flutter",
     "category": "software",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/Documents/Apps/Microsoft%20Forms/Graduation%20Projects%20Details%20-%20CSE%20Department,%20FEE/Question/GraduationProject_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%20%D8%B1%D8%A8%D9%8A%D8%B9%20%D9%8A%D8%AD%D9%8A%D9%8A.pdf"
   },
   {
     "id": "11",
@@ -184,7 +184,7 @@
     "descriptionEn": "Our project aims to develop advanced wheelchairs for people with special needs, where the wheelchair can be controlled using multiple methods, including: Manual control (via joystick), Smart Wheelchair Android application, Voice command translation, Neural signal interpretation. The wheelchair is equipped with sensors to avoid obstacles during movement, in addition to a health monitoring system to measure heart rate and blood oxygen levels. It also includes an emergency button to send quick alerts in dangerous situations. Website.",
     "technologies": "' Arduino Mega 2560  HC-05 Bluetooth Module  Flutter  Ultrasonic Sensors  Pulse & Heat Sensors   Voice Command Integration   Neural Signal Interface (e.g., EEG)  Serial Communication (UART)  Proteus for simulation",
     "category": "embedded",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7B4B3AFFC4-C37E-4E3E-AD50-819143EA2676%7D&file=%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%85%D8%A7%D8%B1%D8%A9_AHMED%20HAMDY.docx&action=default&mobileredirect=true"
   },
   {
     "id": "12",
@@ -201,7 +201,7 @@
     "descriptionEn": "The project receives a nominal sentence with a pattern that matches one of the patterns that the system works on in the classical Arabic language and it is not vocalized. The system vocalizes that sentence and then pronounces this sentence aloud after the vocalization process. That is, it is the system’s output of the sentence that was entered, but after vocalization, in addition to the sound for pronouncing this sentence.",
     "technologies": "AI , Python, MongoDB, Data Structures",
     "category": "ai",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BDB5976BB-AF88-49AC-BE34-AF4E082D3EA6%7D&file=Graduation%20Project%20brief_KAREEM%20Aldeen.docx&action=default&mobileredirect=true"
   },
   {
     "id": "13",
@@ -218,7 +218,7 @@
     "descriptionEn": "The modern healthcare sector is often characterized by significant fragmentation, where diagnostic, clinical, and pharmaceutical services operate in disconnected silos. This fragmentation leads to inefficiencies, delays in care, and a disjointed experience for patients and providers alike. This project, titled MedLens, addresses this critical challenge by designing and implementing a comprehensive, AI-powered integrated healthcare platform. The primary objective is to create a unified digital ecosystem that seamlessly connects patients, doctors, and pharmacies, while embedding advanced artificial intelligence to provide immediate and accurate diagnostic support.\n\nTo achieve this, a modern microservices architecture was adopted, separating the system into three core components: a responsive frontend built with React.js, a robust main API service developed with Node.js and Express.js, and a high-performance AI inference service using Python and FastAPI. The platform's intelligence is driven by a suite of eight specialized deep learning models, developed using transfer learning techniques, which are capable of analyzing a wide range of medical images—including brain, chest, eye, and skin scans—with high accuracy (89-97%). The system is built upon a secure foundation, incorporating JWT-based authentication, role-based access control, and secure data handling practices.\n\nThe result of this project is a fully functional, multi-role platform. Patients are empowered with tools to manage their medical records, receive instant AI-driven analysis of their scans, and seamlessly book appointments with nearby doctors. Doctors are provided with a dashboard that augments their expertise, allowing them to review AI-generated insights, manage patients, and streamline their clinical workflow. Pharmacies are integrated into the ecosystem with tools to manage their inventory, making medication availability transparent to patients.\n\nIn conclusion, the MedLens project successfully demonstrates the feasibility and value of integrating advanced AI diagnostics within a comprehensive healthcare management platform. It presents a robust solution to the problem of healthcare fragmentation, creating a more connected, efficient, and intelligent model for future healthcare delivery.",
     "technologies": "Frontend: React.js, Backend (Main API): Node.js, Express.js, Backend (AI Service): Python, FastAPI, Database: MongoDB (with Mongoose ODM), Artificial Intelligence: Deep Learning, Transfer Learning (TensorFlow, PyTorch), Authentication: JSON Web Tokens (JWT), Architectural Style: Microservices, REST API",
     "category": "ai",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/Documents/Apps/Microsoft%20Forms/Graduation%20Projects%20Details%20-%20CSE%20Department,%20FEE/Question/Graduation%20Project%20-%20MedLens_AHMED%20hassan.pdf"
   },
   {
     "id": "14",
@@ -235,7 +235,7 @@
     "descriptionEn": "We are building a mobile application capable of detecting plant diseases and monitoring them to protect them, and raising awareness about any disease that may affect plants and its treatment.",
     "technologies": "AI (Computer Vision, Image Processing, NLP, LLMs) / Python / Dart / Flutter",
     "category": "ai",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BC566F430-5E31-47AF-BA71-BAE6014D4448%7D&file=Cover%20Page_FADY%20ATTIA.docx&action=default&mobileredirect=true"
   },
   {
     "id": "15",
@@ -252,7 +252,7 @@
     "descriptionEn": "A comprehensive backend implementation of the Task Manager project, built with Django. It supports two types of users: Manager and Employee, with advanced features including real-time chat, AI chatbot assistance, and secure API authentication.",
     "technologies": "Python 3.x, Django 4.x, Django REST Framework, Django Channels (WebSockets), Celery (Task Queue), Redis (Message Broker & Cache), MySQL or SQLite, Authentication (Django's built-in authentication, Token authentication for API access), pytest, Django test framework, HTML5, CSS3, JavaScript, Font Awesome (icon library), SweetAlert2 (Alert message library), GitHub, Docker, Kubernetes, Ansible, CI/CD, Monitoring, AWS",
     "category": "software",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7B9990FF5A-584E-4230-A401-3A7546B6E890%7D&file=DistriTask_%D9%85%D8%B5%D8%B7%D9%81%D9%89%20%D8%B9%D9%84%D9%89%20%D9%85%D8%B5%D8%B7%D9%81%D9%89%20%D8%A7%D9%84%D9%85%D8%B1.docx&action=default&mobileredirect=true"
   },
   {
     "id": "16",
@@ -269,7 +269,7 @@
     "descriptionEn": "A smart irrigation system is a project that uses technology to automatically and efficiently improve plant watering. This system aims to conserve water and maintain plant health by determining the appropriate amounts of water plants need based on environmental conditions.",
     "technologies": "ATmega32, ESP8266 Wi-Fi Module, Soil Moisture Sensor, LM35 Temperature Sensor, DS18B20 Temperature Sensor, L293D Motor Driver, DC Water Pump, Embedded C, Flutter SDK, Dart Language, BLoC (Flutter State Management), Dio (HTTP Client), Laravel Framework, MySQL Database, Laravel Sanctum, Postman, Ngrok, Git & GitHub, Composer, Machine Learning (Python), StreamBuilder (Flutter), Intl Package (Flutter), VS Code, Android Studio",
     "category": "embedded",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BAC84800D-FA8B-46D8-95A9-925F1D1D380A%7D&file=smart_AHMED%20KHALED.docx&action=default&mobileredirect=true"
   },
   {
     "id": "17",
@@ -286,7 +286,7 @@
     "descriptionEn": "Our website is designed to provide a connection between individuals renting a car and car rental companies. The platform transforms the traditional car rental process by offering a solution that is not only secure but also efficient and user-friendly. One of the standout features is the easy registration process. Users are able to sign up quickly by verifying their identity using a photo. This ensures both security and transparency, creating trust between renters and car owners. Once registered, users gain access to a real-time database of available cars for rent. The app utilizes advanced location-based technology to display the nearest vehicles that fit the user’s criteria. Security will be a top priority, and our project ensures peace of mind for both parties. Upon arriving at the vehicle, the user’s identity is further verified through an in-car camera system. This feature provides an additional layer of security, ensuring that only authorized users can drive the car, reducing the risk of misuse or theft. In addition to security, we focus on making the payment process as simple and streamlined as possible. The app handles all transactions directly, eliminating the need for cash or complicated payment processes. The payment system is designed to be user-friendly and secure.",
     "technologies": "Front-End: React, Tailwind CSS, JavaScript, Vite, Back-End: Node.js, Socket.IO, PostgreSQL, Clerk, Stripe, Cloudinary, Embedded Systems: Raspberry Pi, Python, face_recognition, OpenCV, WebSockets",
     "category": "software",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/Documents/Apps/Microsoft%20Forms/Graduation%20Projects%20Details%20-%20CSE%20Department,%20FEE/Question/Car_Rental_Grad_Project_%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%20%D8%B9%D9%85%D8%B1%D9%88%20%D9%85%D8%AD%D9%85%D8%AF.pdf"
   },
   {
     "id": "18",
@@ -302,7 +302,7 @@
     "descriptionEn": "The Student Services Website Development for Menoufia University is a project designed to create a comprehensive digital platform that enables students to access their academic services in a fast, simple, and secure manner. The platform features a modern user interface with full support for Arabic and English, and a responsive design that adapts to all screen sizes. It also integrates seamlessly with the university’s internal systems to provide real-time data access and request submission.",
     "technologies": "React.js (UI library), React Router DOM (Routing system), Zustand (State management), Framer Motion (Animation library), i18next (Language support), Axios (API requests), HTML5 (Markup language), CSS3 (Styling rules), JavaScript ES6+ (Scripting language), ASP.NET Core (Web framework), Entity Framework (ORM tool), SQL Server (Database engine), RESTful APIs (Data interface), JWT (Auth tokens), Git (Version control), Visual Studio Code (Frontend & Backend IDE)",
     "category": "software",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/Documents/Apps/Microsoft%20Forms/Graduation%20Projects%20Details%20-%20CSE%20Department,%20FEE/Question/student%20services%20website_ZYAD%20YASEEN.pdf"
   },
   {
     "id": "19",
@@ -319,7 +319,7 @@
     "descriptionEn": "Our project, 'Implementing and Securing Network Infrastructure,' aims to develop a comprehensive plan for establishing a reliable and secure network environment tailored to meet the specific needs of our organization.",
     "technologies": "Firewall, Cisco routers and switches, Penetlab, VirtualBox",
     "category": "networks",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7B4074C18B-1ECE-4675-8553-5F56F8FACB18%7D&file=Grad-Word_AbdAlrahaman%20EID.docx&action=default&mobileredirect=true"
   },
   {
     "id": "20",
@@ -336,7 +336,7 @@
     "descriptionEn": "A Scalable and Production ready web-based e-commerce platform that allows users to browse, search, and purchase car parts online. The platform supports multiple categories such as tires, batteries, and oils, includes features like product filtering, image galleries, and detailed specifications. It is built using modern web technologies including Node.js, Angular, Express, MongoDB, Figma and Docker for Development, with a focus on scalability and performance.",
     "technologies": "Angular, Bootstrap, NodeJs, MongoDB, Jest, Figma, Docker",
     "category": "software",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/Documents/Apps/Microsoft%20Forms/Graduation%20Projects%20Details%20-%20CSE%20Department,%20FEE/Question/Project-Proposal_%D8%A7%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%A1%20%D8%B9%D9%84%D9%89%20%D8%AE%D8%B7%D8%A7%D8%A8.pdf"
   },
   {
     "id": "21",
@@ -353,7 +353,7 @@
     "descriptionEn": "A mobile game engine built with Flutter that allows developers to create games compatible with both Android and iOS devices. It features a visual programming interface based on nodes, a built-in physics engine, a UI element system, an animation editor, and many other powerful tools to streamline game development.",
     "technologies": "Dart, Flutter, MVVM, Provider, Firebase, Supabase, TensorFlow Lite",
     "category": "software",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/Documents/Apps/Microsoft%20Forms/Graduation%20Projects%20Details%20-%20CSE%20Department,%20FEE/Question/Cover%20Page%20(1)_AbdAllah%20EHAB.pdf"
   },
   {
     "id": "22",
@@ -370,7 +370,7 @@
     "descriptionEn": "Develop a platform that combines e-commerce, sports field booking, and health monitoring using AI. Address the needs of users in managing sports activities and purchases easily and efficiently.",
     "technologies": "Front End: React.js, React Query, Axios, Auth, Leaflet Map, React Hook Form | Control: Arduino, ESP8266, Keypad, LCD 16x2, Micro Servo Motor | Mobile Development: Flutter, Dart | AI: LangChain, Groq API, FastAPI, JSON-based Chat Memory, Python, Scikit-learn (Decision Tree), Pandas, StandardScaler, NLP, Computer Vision | Back End: Java 17, Spring Boot, Spring Security, Spring Data JPA, Hibernate, MySQL, Redis, JWT, Cloudinary, Firebase, Lombok, Maven, Postman, SMTP  (Titan), Multipart Upload",
     "category": "ai",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BE61CB05A-CECB-4764-8DED-CB57A491EF04%7D&file=core_fit_AHMED%20AbdAlfatah.docx&action=default&mobileredirect=true"
   },
   {
     "id": "23",
@@ -387,7 +387,7 @@
     "descriptionEn": "The project we worked on is the MNF Portal, a web-based platform designed to streamline and manage various administrative and user-related tasks efficiently. It provides an interface for users to interact with the system, access services, and manage relevant data through a secure and user-friendly environment.",
     "technologies": ".NET - React - and others used in testing and web security and UI/UX, etc. All these technologies are detailed in the attached PDF.",
     "category": "software",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/Documents/Apps/Microsoft%20Forms/Graduation%20Projects%20Details%20-%20CSE%20Department,%20FEE/Question/GP%20Team_%D8%A7%D8%AD%D9%85%D8%AF%20%D8%B5%D8%A7%D9%84%D8%AD%20%D8%AB%D8%A7%D8%A8%D8%AA%20%D8%AC%D8%A7%D8%AF%20%D8%A7.pdf"
   },
   {
     "id": "24",
@@ -404,7 +404,7 @@
     "descriptionEn": "The project focuses on securing computer networks from internal and external threats and unauthorized access. It provides a secure and scalable design for an organization’s network with two branches (primary and secondary), a demilitarized zone (DMZ), and a remote access network.",
     "technologies": "Virtual Machine, FortiGate Firewall, Servers, Core & Access Switches, Router",
     "category": "networks",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/Documents/Apps/Microsoft%20Forms/Graduation%20Projects%20Details%20-%20CSE%20Department,%20FEE/Question/Screenshot%20(293)_AYMAN%20SABRY.png"
   },
   {
     "id": "25",
@@ -421,7 +421,7 @@
     "descriptionEn": "This project explores various malware development techniques used to evade detection and achieve code execution within Windows environments. It covers the design, implementation, and testing of methods such as shellcode injection, DLL injection, process hollowing, API hooking, and encryption-based payload obfuscation. The objective is to understand the inner workings of malware, simulate real-world attack scenarios in a controlled environment, and highlight potential security weaknesses to support defensive research and learning.",
     "technologies": "VirtualBox, VMware, Docker, Python, C/C++, Assembly, PowerShell, Windows API, VirusTotal API, PyInstaller, Nuitka, Flask, Microsoft Visual Studio (MSVC)",
     "category": "security",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BBA077C89-ADA8-4970-BFD4-21DE2FD32257%7D&file=Project_Form_%D9%85%D8%AD%D9%85%D8%AF%20%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%8A.docx&action=default&mobileredirect=true"
   },
   {
     "id": "26",
@@ -437,7 +437,7 @@
     "descriptionEn": "It is a website to help the hospital take care of the health of patients who are already on the hospital’s database, follow up on their medical records, provide medical advice to them, and direct them in the event of noticing any health risk by nominating specialized doctors, and analyses to ensure their safety. And helping site users to reassure themselves if they notice any strange symptoms by diagnosing some of the most common and dangerous diseases through artificial intelligence.",
     "technologies": "Backend: Java, Spring Boot, Maven, Frontend: TypeScript, React, Node.js, Machine Learning: Python, Scikit-learn, Databases: SQL and MongoDB, DevOps: Docker, Docker Compose, Spring Cloud",
     "category": "software",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/Documents/Apps/Microsoft%20Forms/Graduation%20Projects%20Details%20-%20CSE%20Department,%20FEE/Question/project%20graduation-1_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%20%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D9%85%D8%AD.pdf"
   },
   {
     "id": "27",
@@ -454,7 +454,7 @@
     "descriptionEn": "This project aims to build a VoIP-based call center system using Issabel to streamline communication between students, academic staff, and administrative departments within a university. The system offers interactive voice menus in Arabic and English, allowing users to access academic services, registration details, schedules, department contacts, medical examination procedures, and more—all through one unified communication platform.",
     "technologies": "Issabel, Asterisk, Linux, IVR (Interactive Voice Response), SIP Protocol",
     "category": "software",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BDDE1E899-A9DF-4F91-98AC-DD9C0CF2BD93%7D&file=project%20outline_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%20%D9%86%D8%A7%D8%B5%D8%B1%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B8%D8%A7%D9%87%D8%B1.docx&action=default&mobileredirect=true"
   },
   {
     "id": "28",
@@ -471,7 +471,7 @@
     "descriptionEn": "The project aims to provide a comprehensive training environment in cybersecurity, including simplified theoretical explanations for trainees, followed by hands-on interactive labs that help them apply the concepts and develop practical skills effectively.",
     "technologies": "Node.js: Used for developing the backend of the application. It provides a scalable, efficient, and event-driven runtime environment for handling server-side logic and APIs. React: Utilized for building the frontend interface. React offers a dynamic and responsive user experience through its component-based architecture and efficient rendering system. Docker: Employed for containerization of the application. Docker ensures consistent development and deployment environments, simplifies configuration, and enhances scalability by packaging the application and its dependencies into containers.",
     "category": "security",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BD6AE9437-A8F2-42AC-A805-58331B8FF1CD%7D&file=cyber%20lab_%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85.docx&action=default&mobileredirect=true"
   },
   {
     "id": "29",
@@ -488,7 +488,7 @@
     "descriptionEn": "\"Learn Hub\" is a smart educational platform that allows students to access a variety of educational content through an easy-to-use and interactive interface. The platform includes the following features:\n\n1. **Account Registration and Management System**: Secure and organized management of student and instructor accounts.\n\n2. **Course Upload and Tracking**: Instructors can upload educational materials, and students can browse them.\n\n3. **Learner Progress Tracking**: Displays the completion rate of courses and tests for each student.\n\n4. **Exams and Certificates**: Students can take online exams and receive certificates upon course completion.\n\n5. **Smart Recommendation System**: Suggests suitable content for each student based on their level and interests.",
     "technologies": "Front-End: Angular, Back-End: ASP.NET Core, Database: SQL Server",
     "category": "software",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7B90FC492F-C1B4-47E6-8515-885DB0912BF3%7D&file=%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9_%D8%AF.%20%D8%B2%D9%8A%D8%A7%D8%AF%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%B5%D8%BA%D9%8A%D8%B1.docx&action=default&mobileredirect=true"
   },
 
   {
@@ -506,7 +506,7 @@
     "descriptionEn": "The project involves a modern tech company that delivers global, customized technology solutions through advanced tools and expert teams. Focused on innovation, agility, and customer needs, it helps businesses improve efficiency and growth. Due to expansion, the company is moving to a new multi-floor facility housing key departments like Sales, HR, Finance, and ICT. The structure supports scalability for future growth, including the ability to add more devices or branches, with two main sites: the Headquarters and a secondary branch.",
     "technologies": "Virtual LANs (VLANs) & inter VLANs, LAN Security methods, Firewall ASA, VPN, LACP, HSRP, Wireless, Access lists (ACLs)",
     "category": "networks",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BE7E50FB7-F94B-4406-B8C0-1B27357CE4B0%7D&file=4_6007941231651329word_%D9%86%D9%8A%D8%B1%D9%87%20%D8%AC%D9%84%D8%A7%D9%84%20%D8%B3%D9%84%D8%A7%D9%85%D9%87%20%D8%A7%D9%84%D8%B3%D9%8A.docx&action=default&mobileredirect=true"
   },
   {
     "id": "31",
@@ -523,7 +523,7 @@
     "descriptionEn": "An interactive web-based training platform designed for penetration testers. It provides isolated lab environments containing deliberately vulnerable code, allowing users to safely practice identifying and exploiting security flaws. The platform includes features for profile management, progress tracking, and secure authentication. Additionally, it integrates an intelligent chatbot that assists users by answering their technical questions and guiding them through the labs. Developed with modern technologies including .NET Core, SQL Server, and Docker, it offers a realistic and secure hands-on learning experience.",
     "technologies": "HTML5, CSS3, Vanilla JS, Bootstrap5, SASS, Dialogflow Messenger, Open AI, Micro service, Micro-Frontends, Fontawsome, Session storage, Responsive design, C#, ASP.NET Core 8, Entity framework, SQL Server, ASP.NET Core Identity, JWT, Mysql (mariadb), Linq, PHP, Clean Architecture Pattern, Docker, Laravel",
     "category": "software",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7B1A2E920A-A544-4044-BCA5-745687364916%7D&file=%D9%85%D8%AA%D8%B7%D9%84%D8%A8%20%D9%85%D9%86%D8%A7%D9%82%D8%B4%D8%A9%20%D8%A7%D9%84%D8%AA%D8%AE%D8%B1%D8%AC_%D8%A7%D8%B3%D9%85%D8%A7%D8%A1%20%D8%AF%D9%8A%D8%A7%D8%A8%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B3%D9%85%D9%8A%D8%B9.docx&action=default&mobileredirect=true"
   },
   {
     "id": "32",
@@ -540,7 +540,7 @@
     "descriptionEn": "This project aims to develop a smart vision-based assistance system that helps blind and visually impaired individuals navigate their surroundings independently and safely. The system integrates real-time object detection, obstacle distance estimation, a voice command interface, and OCR for reading texts. It acts as the user's \"eyes\" by identifying nearby objects, reading signs or advertisements aloud, and guiding the user through spoken instructions.",
     "technologies": "YOLOv8, Tensorflow, Paddle OCR, OpenCV, ImageDataGenerator, Depth Estimation, SUN RGB-D dataset, Cityscapes dataset, SpeechRecognition, pyttsx3, gTTS, Microphone and Speaker, Flutter",
     "category": "ai",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7B3F6D611F-BD3D-4A48-A34F-B6F9BE95F9FC%7D&file=Vision%20blind_%D8%A7%D8%AD%D9%85%D8%AF%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D9%85.docx&action=default&mobileredirect=true"
   },
   {
     "id": "33",
@@ -557,7 +557,7 @@
     "descriptionEn": "This project empowers B2C businesses and startups to make smarter decisions through data-driven strategies. We designed an end-to-end pipeline that collects, stores, and analyzes organizational data from both CRM and ERP systems. By integrating this data into a centralized data warehouse, we perform in-depth customer segmentation, sales performance analysis, and product profitability evaluation. The outcomes are presented via interactive dashboards tailored for business leadership—enabling strategic growth based on real insights.",
     "technologies": "Microsoft SQL Server, SQL, Data Warehouse concepts, GitHub",
     "category": "software",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7B8B3F4D57-11E1-4F0E-B12B-214AAF57695E%7D&file=GP_AbdAlfatah%20Gamal.docx&action=default&mobileredirect=true"
   },
   {
     "id": "34",
@@ -574,7 +574,7 @@
     "descriptionEn": "\"Dr.Care\" is an AI-powered dental assistant designed to help users detect dental issues early. The user uploads three dental images (frontal, upper, and side views), which are analyzed by a YOLO object detection model to identify conditions like cavities and misalignment. The detection results are then interpreted using a Large Language Model (LLM), enhanced by Function Calling for accurate and structured understanding. The system generates a bilingual (Arabic/English) medical-style report and displays it through a user-friendly interface built with Next.js. The project combines computer vision, generative AI, and full-stack integration to deliver a smart and responsive dental diagnosis experience.",
     "technologies": "NestJS, Redis, BullMQ, AWS S3, Multer, Sharp, YOLOv8 (Ultralytics), OpenAI GPT-4, Function Calling, Python, FastAPI (optional), Next.js (React), Tailwind CSS, Styled Components, Axios, Fetch API, Postman, Git, GitHub, Google Colab, Jupyter, Figma",
     "category": "ai",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7B476BD950-09C7-4B5C-9B7F-F321BF159221%7D&file=Dr.Care_OMAR%20MOKHTAR.docx&action=default&mobileredirect=true"
   },
   {
     "id": "35",
@@ -592,7 +592,7 @@
     "technologies": "ASP.NET Core, SQL Server, Angular, HTML, CSS, TypeScript",
 
     "category": "software",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7B669FED3F-128A-4783-82D5-9000E836263C%7D&file=life%20line%20web%C2%A0app_YOUSSEF%20mohamed.docx&action=default&mobileredirect=true"
   },
   {
     "id": "36",
@@ -610,7 +610,7 @@
     "technologies": "PNETLab, Virtual Machine, FortiGate Firewall, Servers, Core & Access Switches, Router",
 
     "category": "security",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/Documents/Apps/Microsoft%20Forms/Graduation%20Projects%20Details%20-%20CSE%20Department,%20FEE/Question/Network_Project_%D9%85%D8%B1%D9%88%D8%A9%20%D9%86%D8%A8%D9%8A%D9%84%20%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%20%D8%B9%D9%85%D8%B1.pdf"
   },
   {
     "id": "37",
@@ -628,7 +628,7 @@
     "technologies": "Java 17, Spring Boot, Maven, Spring Web, Hibernate/Spring Data JPA, Spring WebSocket, Spring Security, STOMP, MySQL, TypeScript, Angular, Tailwind CSS, CodeMirror 6, Agora RTC SDK, Agora RTM, STOMP over WebSocket, RxJS, Docker, Git/GitHub, Cloudflare Tunnel",
 
     "category": "software",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/Documents/Apps/Microsoft%20Forms/Graduation%20Projects%20Details%20-%20CSE%20Department,%20FEE/Question/Graduation%20Projects%20Details_AbdAlrahaman%20EMAD.pdf"
   },
   {
     "id": "38",
@@ -646,6 +646,26 @@
     "technologies": "Backend: C# (Primary), ASP.NET Web API with .NET8, RESTful API, Swagger, AutoMapper, EF Core, LINQ, ASP.NET Core Identity, SQL Server; Frontend: React, Redux Toolkit, Material-UI, Emotion, MUI Data Grid, Formik & Yup, React Router, SweetAlert2, React Testing Library, Web Vitals, React Scripts; DevOps: Windows Server, IIS, Microsoft SQL Server, RDP, Firewall & Security Settings; Security: Burp Suite, OWASP ZAP, Nmap; Testing: Postman, Swagger",
 
     "category": "software",
-    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BC5AE1D5D-E922-44E0-8967-E0EA9969E96A%7D&file=Staff%27s%20Affairs%20Management%20System%20for%20Menoufi_%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%20%D8%AC%D8%A7%D8%A8%D8%B1%20%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85.docx&action=default&mobileredirect=true"
+  },
+  {
+    "id": "39",
+    "startTime": "2025-07-05 22:34:26",
+    "completionTime": "2025-07-05 23:07:58",
+    "imageUrl": "/soft.png",
+
+    "projectTitleAr": "نظام ادارة شئون اعضاء هيئة التدريس بجامعة المنوفية. ",
+    "projectTitleEn": "Staff's Affairs Management System for Menoufia University ",
+    "supervisorAr": "د /جمال سليم",
+    "supervisorEn": "Dr. Gamal Selim ",
+    "teamMembers": "• Reem Ibrahim Abdullah Abdel-Ghani Nassif - Backend Developer & Project Manager (Node.js, APIs, Database Management & Project Coordination) • Rowan Salah El-Din El-Sayed Abdel-Aal Farag - Backend Developer (Socket.IO, Authentication, Commission System & Real-time Features) • Rowan Mohamed Shaaban El-Sayed Shaheen - Frontend Developer (Angular Components, User Interfaces & Dashboard Development) • Eman Galal Fahmy Mohamed Shabl - Frontend Developer (UI/UX Design, Website Creation Module & Client-side Functionality)",
+
+    "descriptionAr": "يُعد مشروع \"سبليتفاي\" نظاماً متطوراً ومتكاملاً للتسويق بالعمولة يهدف إلى إحداث نقلة في صناعة التجارة الإلكترونية من خلال توفير منصة شاملة تربط بين التجار والمسوقين بطريقة مبتكرة وفعالة. يتميز النظام بهيكل عمولات متدرج يضمن العدالة والشفافية في توزيع الأرباح على جميع المشاركين في السلسلة التسويقية. الهيكل التنظيمي والأدوار المتخصصة يعمل النظام من خلال أربعة أدوار محورية مترابطة: المدير العام (System Administrator): • إدارة البيانات الأساسية للنظام (الفئات، المقاسات، الألوان، المناطق الجغرافية) • إنشاء وإدارة حسابات التجار وقادة الفرق • مراجعة واعتماد المنتجات المُرسلة من التجار • تحديد هوامش الربح وإستراتيجيات التسعير • إدارة النظام المالي وعمليات التحويل التاجر (Merchant): • عرض وإدارة كتالوج المنتجات الخاص به • تحديد الأسعار الأساسية والمواصفات التقنية • رفع الصور ومقاطع الفيديو التوضيحية • متابعة مبيعات منتجاته وأرباحه قائد الفريق (Team Leader): • إنشاء وتخصيص المواقع الإلكترونية التسويقية الشخصية • اختيار المنتجات المناسبة لجمهوره المستهدف • إدارة فريق مندوبي المبيعات مندوب المبيعات (Sales Representative): • تصفح واختيار المنتجات من مواقع قادة الفرق • معالجة طلبات العملاء وإدخال البيانات • متابعة عمليات الشحن والتوصيل سير العمل التفصيلي مرحلة التأسيس والإعداد: يبدأ النظام بقيام المدير بإعداد البنية التحتية للبيانات، حيث يُدخل جميع التصنيفات الرئيسية للمنتجات، المقاسات المتاحة، الألوان، والمناطق الجغرافية للتوصيل. كما يقوم بإنشاء الحسابات الأولية للتجار وقادة الفرق مع تحديد صلاحيات الوصول لكل دور. مرحلة عرض المنتجات والاعتماد: عندما يقوم التجار بتسجيل الدخول، يعرضون منتجاتهم من خلال اختيار التصنيفات المناسبة والمواصفات التقنية، ثم يضعون السعر الأساسي الذي يرونه مناسباً مع رفع مواد تسويقية عالية الجودة. يراجع المدير هذه المنتجات بدقة، مع إمكانية تعديل الأوصاف والصور لضمان الجودة، ثم يضيف هامش ربحه الخاص ويغير حالة المنتج لجعله متاحاً لقادة الفرق. مرحلة إنشاء المواقع التسويقية: يدخل قادة الفرق لإنشاء مواقعهم الإلكترونية المتخصصة، حيث يخصصون تماماً صفحة التسجيل، المحتوى الرئيسي. يسهل النظام إنشاء مواقع احترافية بناءً على هذه المعطيات، مما يوفر لكل قائد فريق منصة تسويقية. مرحلة التسويق والمبيعات: يتصفح مندوبو المبيعات المنتجات على مواقع قادة الفرق، ويختارون المنتجات المناسبة. عند استقبال طلب من عميل، يدخلون جميع التفاصيل المطلوبة، بما في ذلك معلومات العميل، عنوان التوصيل، والسعر النهائي المحدد حسب هامش ربحهم. يتم معالجة الطلب تلقائياً وإرساله للشحن. آلية حساب وتوزيع العمولات المفصلة نظام التسعير التدريجي والعمولات: يعتمد نظام سبليتفاي على آلية تسعير تدريجية مرنة تتيح لكل مشارك في السلسلة التسويقية حرية كاملة في تحديد هامش ربحه وعمولته حسب إستراتيجيته الخاصة وظروف السوق. مراحل تحديد الأسعار والعمولات: المرحلة الأولى - التاجر (Merchant): • يضع التاجر السعر الأساسي للمنتج = X (حسب تقديره الشخصي) • يحصل التاجر على كامل المبلغ X كإيراد من بيع منتجه المرحلة الثانية - المدير (Administrator): • يراجع المدير المنتج ويوافق عليه • يضيف المدير هامش ربحه = أي مبلغ يحدده (ليس مقيداً برقم معين) • السعر الجديد للمنتج = X + هامش ربح المدير المرحلة الثالثة - قائد الفريق (Team Leader): • يختار قائد الفريق المنتجات المناسبة لجمهوره • يضيف هامش ربحه = أي مبلغ يراه مناسباً لإستراتيجيته • السعر الجديد = سعر المدير + هامش ربح قائد الفريق المرحلة الرابعة - مندوب المبيعات (Sales Representative): • يختار مندوب المبيعات المنتجات من موقع قائد الفريق • يضيف هامش ربحه = أي مبلغ يحدده بناءً على جهوده التسويقية • السعر النهائي للعميل = سعر قائد الفريق + هامش ربح مندوب المبيعات الميزات التقنية المتقدمة نظام المحادثة الفورية (Live Chat System): مُطبق باستخدام تقنية Socket.IO المتطورة، يوفر تواصلاً مباشراً ولحظياً بين مندوبي المبيعات والإدارة. هذا النظام يضمن حل المشاكل فوراً، الإجابة على الاستفسارات، وتقديم الدعم التقني المطلوب في الوقت الفعلي. نظام الفاتورة السريعة (Quick Invoice System): ميزة ثورية تسمح بإنشاء الفواتير في ثوانٍ معدودة من خلال قوائم منسدلة تفاعلية. يختار مندوب المبيعات المنتجات بنقرات بسيطة، مما يقلل الوقت المطلوب لمعالجة الطلبات من دقائق إلى ثوانٍ. نظام طلب المنتجات غير المتاحة (Special Product Requests): عندما يطلب العملاء منتجات غير متوفرة حالياً، يمكن لمندوبي المبيعات إرسال طلبات خاصة للإدارة. يراجع المدير هذه الطلبات.",
+
+    "descriptionEn": "# Splitfy System - Comprehensive Affiliate Marketing Platform Splitfy is an advanced affiliate marketing system designed to revolutionize e-commerce by connecting merchants and marketers through a tiered commission structure that ensures transparent profit distribution among all participants. System Architecture and Roles The platform operates through four interconnected roles: System Administrator manages fundamental system data including product categories, sizes, colors, and geographical regions. They create merchant and team leader accounts, review and approve products, determine profit margins and pricing strategies, and oversee the financial system including transfer operations. Merchants serve as product suppliers, managing comprehensive product catalogs. They set base prices and technical specifications, upload high-quality images and videos, and monitor sales performance and profit margins. Team Leaders act as marketing coordinators, creating customized personal marketing websites tailored to specific audiences. They select appropriate products for their target demographics and manage teams of sales representatives. Sales Representatives function as the customer interface, browsing products from team leaders' websites, processing customer orders with complete data entry, and handling shipping and delivery coordination. Operational Workflow The system begins with a setup phase where the administrator establishes data infrastructure by inputting product categories, sizes, colors, and delivery regions while creating accounts for merchants and team leaders with defined access permissions. During product display, merchants showcase their products by selecting categories and specifications, setting competitive base prices, and uploading marketing materials. The administrator reviews submissions, modifies descriptions and images for quality assurance, adds profit margins, and makes products available to team leaders. The marketing phase allows team leaders to build specialized websites with customized registration pages and content. The system facilitates professional website creation, providing each leader with a dedicated marketing platform. In the sales phase, representatives browse team leaders' websites and select appropriate products. When receiving orders, they enter customer information, delivery addresses, and final prices based on their profit margins. Orders are automatically processed and sent for shipping. Commission Structure Splitfy employs a flexible tiered pricing mechanism granting each participant complete freedom to determine profit margins according to their strategy and market conditions. The process flows as follows: merchants set initial base prices, administrators add their margins after product approval, team leaders add margins when selecting products for their audiences, and sales representatives add final margins based on marketing efforts, creating the ultimate customer price. Advanced Technical Features The platform incorporates cutting-edge technology including a live chat system using Socket.IO technology, providing instant communication between sales representatives and management for immediate problem resolution and real-time technical support. The quick invoice system allows invoice creation in seconds through interactive dropdown menus, enabling sales representatives to select products with simple clicks and dramatically reducing order processing time from minutes to seconds. The special product requests system enables representatives to send requests to management when customers seek unavailable products, ensuring comprehensive customer service and potential business expansion opportunities. This comprehensive system creates a seamless, efficient, and profitable environment for all participants in the affiliate marketing chain, combining innovative technology with flexible business models to maximize success.",
+
+    "technologies": "Frontend Technologies: • Angular - Frontend framework for building the user interface • TypeScript - Programming language for Angular development • HTML5 & CSS3 - Markup and styling languages • Bootstrap/Angular Material - UI component library for responsive design Backend Technologies: • Node.js - Server-side JavaScript runtime environment • Express.js - Web application framework for Node.js • JavaScript/TypeScript - Programming languages for backend development Database: • PostgreSQL - Relational database management system • Sequelize - Object-Relational Mapping (ORM) library Real-time Communication: • Socket.IO - Real-time bidirectional event-based communication Authentication & Security: • JWT (JSON Web Tokens) - For user authentication and authorization • bcrypt - For password hashing and security • CORS - Cross-Origin Resource Sharing middleware Development Tools: • Git - Version control system • npm - Package manager • Postman - API testing and development tool • VS Code - Integrated Development Environment",
+    "category": "software",
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7B3F15FC58-64F6-4B8E-A68B-75B6BDBAC284%7D&file=Splitify%20Graduation%20Project_%D8%B1%D9%8A%D9%85%20%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87.docx&action=default&mobileredirect=true"
   }
 ]
