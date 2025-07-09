@@ -56,8 +56,8 @@
     "completionTime": "2025-07-05 23:07:58",
     "imageUrl": "/ai.png",
 
-    "projectTitleAr": "نظام ذكي لتقليل استهلاك الطاقة والصيانة التنبؤية باستخدام الذكاء الاصطناعي",
-    "projectTitleEn": "Power Consumption Optimization and Predictive Maintenance Smart System",
+    "projectTitleAr": "نظام التعرف على لغة الإشارة العربية",
+    "projectTitleEn": "Arabic Sign Language Recognition System",
     "supervisorAr": "د /احمد مصطفي عبد الحميد المحلاوي",
     "supervisorEn": "Dr. Ahmed Mostafa Abdelhamid El-Mahlawy",
     "teamMembers": "عبدالرحمن مجدي عبدالعزيز – تصميم نموذج الذكاء الاصطناعي والتدريب / إسلام إيهاب محمد إسلام – إعداد قاعدة البيانات وتحليل المعطيات / إسلام عبدالبصير عبدالعظيم عبدالحكم – تنفيذ التطبيق على أجهزة الموبايل باستخدام Dart / وليد محمد محمد ريحان – تنفيذ وتصميم واجهة المستخدم باستخدام Flutter",
@@ -522,6 +522,129 @@
     "descriptionAr": "منصة ويب تفاعلية تهدف إلى تدريب مختبري الاختراق (Pentesters) على اكتشاف الثغرات الأمنية واختبار أمان التطبيقات في بيئة افتراضية معزولة وآمنة. تتيح المنصة للمستخدمين اختيار معامل تعليمية (Labs) تحتوي على ثغرات مقصودة، مع إمكانية تتبع التقدم وتحديث بيانات الحساب. وتُعزز المنصة تجربة المستخدم من خلال شات بوت ذكي قادر على الرد على استفساراتهم الفنية وتوجيههم داخل المعامل. تم تطوير المنصة باستخدام .NET وتقنيات حديثة لضمان بيئة تعليمية واقعية وآمنة.",
     "descriptionEn": "An interactive web-based training platform designed for penetration testers. It provides isolated lab environments containing deliberately vulnerable code, allowing users to safely practice identifying and exploiting security flaws. The platform includes features for profile management, progress tracking, and secure authentication. Additionally, it integrates an intelligent chatbot that assists users by answering their technical questions and guiding them through the labs. Developed with modern technologies including .NET Core, SQL Server, and Docker, it offers a realistic and secure hands-on learning experience.",
     "technologies": "HTML5, CSS3, Vanilla JS, Bootstrap5, SASS, Dialogflow Messenger, Open AI, Micro service, Micro-Frontends, Fontawsome, Session storage, Responsive design, C#, ASP.NET Core 8, Entity framework, SQL Server, ASP.NET Core Identity, JWT, Mysql (mariadb), Linq, PHP, Clean Architecture Pattern, Docker, Laravel",
+    "category": "software",
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+  },
+  {
+    "id": "32",
+    "startTime": "2025-07-05 22:34:26",
+    "completionTime": "2025-07-05 23:07:58",
+    "imageUrl": "/soft.png",
+
+    "projectTitleAr": " نظام مساعد ذكي للمكفوفين باستخدام الذكاء الاصطناعي",
+    "projectTitleEn": "AI-Powered Assistance System for the Visually Impaired",
+    "supervisorAr": "د.مها طلبة",
+    "supervisorEn": "D. Maha Tolba",
+    "teamMembers": "احمد فتح الباب احمد محمد: AI & computer vision, احمد محمد عبدالعليم عمر: AI & flutter",
+    "descriptionAr": "يهدف هذا المشروع إلى تطوير نظام ذكي يعتمد على الرؤية الحاسوبية لمساعدة المكفوفين وضعاف البصر على التنقل بشكل مستقل وآمن. يدمج النظام تقنيات مثل التعرف على الأجسام في الوقت الحقيقي، تقدير المسافات للعوائق، واجهة أوامر صوتية، وقراءة النصوص من الصور (OCR). يعمل النظام كـ \"عين\" للمستخدم، حيث يحدد الأشياء المحيطة، يقرأ اللافتات والإعلانات بصوت مسموع، ويوجهه باستخدام أوامر صوتية.",
+    "descriptionEn": "This project aims to develop a smart vision-based assistance system that helps blind and visually impaired individuals navigate their surroundings independently and safely. The system integrates real-time object detection, obstacle distance estimation, a voice command interface, and OCR for reading texts. It acts as the user's \"eyes\" by identifying nearby objects, reading signs or advertisements aloud, and guiding the user through spoken instructions.",
+    "technologies": "YOLOv8, Tensorflow, Paddle OCR, OpenCV, ImageDataGenerator, Depth Estimation, SUN RGB-D dataset, Cityscapes dataset, SpeechRecognition, pyttsx3, gTTS, Microphone and Speaker, Flutter",
+    "category": "ai",
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+  },
+  {
+    "id": "33",
+    "startTime": "2025-07-05 22:34:26",
+    "completionTime": "2025-07-05 23:07:58",
+    "imageUrl": "/soft.png",
+
+    "projectTitleAr": "النمو القائم على البيانات: رحلة تحليلات المبيعات",
+    "projectTitleEn": "Data-Driven Growth: A Sales Analytics Journey",
+    "supervisorAr": "د/ مروة شرف الدين",
+    "supervisorEn": "Dr/ Marwa Sharf-eldin",
+    "teamMembers": "عبدالفتاح جمال عبدالفتاح محمود: Team Leader, سيد إسماعيل سيد: Data Warehouse Developer, السيد سعيد السيد: Customer & Sales Analyst, فايز عبدالمقصود السيد: Market Basket & Profitability Analyst",
+    "descriptionAr": "هدفنا اننا نساعد البيزنس من نوع B2C والشركات الناشئة من خلال اننا بنجمع الداتا كلها على مستوى الشركة ونحللها ونخرنها على داتا بيز، وبنظهر داشبورد من الداتا لأصحاب الإدارات في الشركات فيقدروا ياخدوا قرارات صحيحة ويكبروا البيزنس.",
+    "descriptionEn": "This project empowers B2C businesses and startups to make smarter decisions through data-driven strategies. We designed an end-to-end pipeline that collects, stores, and analyzes organizational data from both CRM and ERP systems. By integrating this data into a centralized data warehouse, we perform in-depth customer segmentation, sales performance analysis, and product profitability evaluation. The outcomes are presented via interactive dashboards tailored for business leadership—enabling strategic growth based on real insights.",
+    "technologies": "Microsoft SQL Server, SQL, Data Warehouse concepts, GitHub",
+    "category": "software",
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+  },
+  {
+    "id": "34",
+    "startTime": "2025-07-05 22:34:26",
+    "completionTime": "2025-07-05 23:07:58",
+    "imageUrl": "/soft.png",
+
+    "projectTitleAr": " دكتور كير",
+    "projectTitleEn": "Dr.Care: An AI-Powered Dental Analysis Platform",
+    "supervisorAr": " دكتور: أيمن السيد عميره ",
+    "supervisorEn": "Prof. Dr. Ayman El-Sayed Omera",
+    "teamMembers": "يوسف مسكه: Backend, عبدالله زهره: Backend, محمد حلمى: AI, عمر مختار: AI, هاجر عطيه: Frontend, رؤى رضا: Frontend",
+    "descriptionAr": "هو نظام ذكي للكشف المبكر عن مشاكل الأسنان باستخدام الذكاء الاصطناعي. يتيح للمستخدم رفع ثلاث صور لأسنانه (أمامية، علوية، جانبية)، ليتم تحليلها باستخدام نموذج YOLO لاكتشاف التسوس والمشاكل الشائعة. بعد ذلك، يتم توليد تقرير طبي مبسط باستخدام نموذج لغوي كبير (LLM) مدعوم بـ Function Calling لضمان دقة التفسير، ويُعرض للمستخدم بشكل ثنائي اللغة (عربي وإنجليزي) من خلال واجهة استخدام تفاعلية مبنية بـ Next.js. المشروع يجمع بين الرؤية الحاسوبية، والذكاء التوليدي، والتكامل بين الواجهة الأمامية والخلفية لتحقيق تجربة طبية ذكية وسريعة.",
+    "descriptionEn": "\"Dr.Care\" is an AI-powered dental assistant designed to help users detect dental issues early. The user uploads three dental images (frontal, upper, and side views), which are analyzed by a YOLO object detection model to identify conditions like cavities and misalignment. The detection results are then interpreted using a Large Language Model (LLM), enhanced by Function Calling for accurate and structured understanding. The system generates a bilingual (Arabic/English) medical-style report and displays it through a user-friendly interface built with Next.js. The project combines computer vision, generative AI, and full-stack integration to deliver a smart and responsive dental diagnosis experience.",
+    "technologies": "NestJS, Redis, BullMQ, AWS S3, Multer, Sharp, YOLOv8 (Ultralytics), OpenAI GPT-4, Function Calling, Python, FastAPI (optional), Next.js (React), Tailwind CSS, Styled Components, Axios, Fetch API, Postman, Git, GitHub, Google Colab, Jupyter, Figma",
+    "category": "ai",
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+  },
+  {
+    "id": "35",
+    "startTime": "2025-07-05 22:34:26",
+    "completionTime": "2025-07-05 23:07:58",
+    "imageUrl": "/soft.png",
+
+    "projectTitleAr": "خيط نجاه",
+    "projectTitleEn": "Life Line",
+    "supervisorAr": " د / مها طلبه",
+    "supervisorEn": "Dr. / Maha Tolba",
+    "teamMembers": "Youssif Mohamed Youssif Aamer: Back-end Developer, Nesma Mostafa: Frontend Design Developer, Haidy Ahmed Nabawy Zahran: Frontend Angular Developer, Karim Maher Abdelrahim Abdelaty: Back-end Developer",
+    "descriptionAr": "إحنا شغالين على مشروع ويب أبليكيشن فكرته إنه يكون منصة بتجمع بين الناس اللي حابة تتبرع بالدم، وبين الناس اللي محتاجة الدم. اللي حابب يتبرع هيقدر يعمل بوست يكتب فيه فصيلة دمه، ومكانه، والمستشفيات أو بنوك الدم اللي يقدر يروح يتبرع فيها، وساعتها أي حد محتاج ممكن يدخل على البوست ده ويتواصل معاه، ويتفقوا على المكان والوقت اللي هيتقابلوا فيه، عشان تتم عملية التبرع. وفي كمان بوست طوارئ مثبت بيكون موجود طول الوقت، بيتحدث حسب الحاجة، وده مخصص للحالات العاجلة، زي الحوادث أو الحالات الحرجة اللي بتحتاج متبرعين في أسرع وقت. كمان في النظام فيه صفحات حسب نوع المستخدم، يعني في صفحة للمستخدم العادي يقدر من خلالها ينشر بوستات ويتواصل مع الناس، وفي لوحة تحكم كاملة للأدمن، بيقدر من خلالها يراقب كل حاجة بتحصل، ويمسح أي بوست مسيء أو مش مناسب، عشان يضمن إن كل حاجة ماشية بشكل محترم ومنظم.",
+    "descriptionEn": "We are working on a web application project that aims to create a platform for blood donors to help people who are in need of blood. Donors will be able to create posts where they can share information such as their blood type, location, and the hospitals or blood banks they are willing to go to for donation. Through the post, a person who needs blood can contact the donor, and they can agree on the time and place to meet and complete the blood donation. There will also be a pinned emergency post that appears at the top of the platform. This is for urgent situations like accidents or major cases where immediate help is needed, allowing any nearby donor to respond quickly. The system will have different pages for users: • A regular user page for donors and recipients to create posts and communicate. • A full admin panel, where the admin can manage the platform. The admin will be able to delete inappropriate posts and act as a moderator, making sure everything is running smoothly and respectfully.",
+    "technologies": "ASP.NET Core, SQL Server, Angular, HTML, CSS, TypeScript",
+
+    "category": "software",
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+  },
+  {
+    "id": "36",
+    "startTime": "2025-07-05 22:34:26",
+    "completionTime": "2025-07-05 23:07:58",
+    "imageUrl": "/soft.png",
+
+    "projectTitleAr": "تصميم وتنفيذ نظام شبكة الشركة الآمنة",
+    "projectTitleEn": "Design and Implementation of a secure company network system",
+    "supervisorAr": " د / مها طلبه",
+    "supervisorEn": "Dr. / Maha Tolba",
+    "teamMembers": "Aya Ali: Primary Branch Implementation, Shimaa Saied: Secondary Branch Implementation, Marwa Nabil: Remote site and DMZ Implementation, Ayman Sabry: FortiGate Firewall Implementation",
+    "descriptionAr": "يركز المشروع على تأمين شبكات الحاسوب من التهديدات الداخلية والخارجية والوصول غير المصرح به. يقدم المشروع تصميمًا آمنًا وقابلًا للتطوير لشبكة منظمة ذات فرعين (رئيسي وثانوي)، بالإضافة إلى شبكة منزوعة السلاح (DMZ) وشبكة وصول عن بعد.",
+    "descriptionEn": "Project focuses on securing computer networks from internal and external threats and from unauthorized access. Project presents a secure and scalable network design for an organization with two branches (Primary and Secondary), DMZ and Remote Access Network.",
+    "technologies": "PNETLab, Virtual Machine, FortiGate Firewall, Servers, Core & Access Switches, Router",
+
+    "category": "security",
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+  },
+  {
+    "id": "37",
+    "startTime": "2025-07-05 22:34:26",
+    "completionTime": "2025-07-05 23:07:58",
+    "imageUrl": "/soft.png",
+
+    "projectTitleAr": "منصة مقابلات وتواصل اجتماعي",
+    "projectTitleEn": "Code Meet",
+    "supervisorAr": "أ.د / نرمين البهنساوي",
+    "supervisorEn": "Prof. Dr. Nirmeen A. El-Bahnasawy ",
+    "teamMembers": "عبد الرحمن عماد سعيد الشيخ: Backend + Frontend, أحمد إبراهيم حلمي عبد الدايم منتصر: Frontend, مصطفى طارق محمد حسن السيد: Backend + Frontend, مصطفى حسين عبد الحليم عبد الغني: Backend",
+    "descriptionAr": "يندرج مشروع Code Meet تحت تصنيف مشاريع الـRealtime Systems، حيث يوفر المشروع مجموعة من المميزات التي تسمح للمستخدمين بالتواصل والتفاعل مع بعضهم البعض في الوقت الفعلي دون الحاجة للانتظار أو إعادة تحميل الموقع. يساعد Code Meet بشكل خاص المبرمجين والمعلمين على استخدام محرر أكواد للعديد من اللغات سواء بشكل فعلي داخل لقاء (Meeting) أو بشكل مستقل خارجه.\n\nالمميزات:\n• إمكانية تكوين صداقات ومحادثات خاصة بين فردين.\n• إمكانية تكوين محادثات عامة (مجموعات) للعديد من الأفراد.\n• نظام تنبيهات فعلي (Realtime notifications) للأحداث.\n• إمكانية استخدام محرر أكواد على الموقع، وتشغيل هذه الأكواد للعديد من اللغات.\n• إمكانية عمل لقاءات (Meetings) فعلية والتواصل مع الأعضاء المشاركين عن طريق الصوت، الكاميرا، الرسائل النصية، أو محرر الأكواد الفعلي (Realtime Code Editor).",
+    "descriptionEn": "Code Meet is a combination of a real-time, collaborative meeting platform and social media platform. It merges voice meetings, live coding, chat, and social interaction in one unified space designed to simulate an engaging, interactive, and professional environment for technical collaboration.\n\nFeatures:\n• The ability to make friendships\n• Enable Flexible Communication\n• Real-time chatting between user peers as well as room (Groups) chatting.\n• Smart notification system alerts users of key activities keeping them engaged and in sync.\n• Integrated code editor with syntax highlighting, execution capabilities, and host-controlled contribution (public/private modes with contributor approval).\n• Realtime meetings with voice, camera, chat, or even with the realtime code editor.",
+    "technologies": "Java 17, Spring Boot, Maven, Spring Web, Hibernate/Spring Data JPA, Spring WebSocket, Spring Security, STOMP, MySQL, TypeScript, Angular, Tailwind CSS, CodeMirror 6, Agora RTC SDK, Agora RTM, STOMP over WebSocket, RxJS, Docker, Git/GitHub, Cloudflare Tunnel",
+
+    "category": "software",
+    "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
+  },
+  {
+    "id": "38",
+    "startTime": "2025-07-05 22:34:26",
+    "completionTime": "2025-07-05 23:07:58",
+    "imageUrl": "/soft.png",
+
+    "projectTitleAr": "نظام ادارة شئون اعضاء هيئة التدريس بجامعة المنوفية. ",
+    "projectTitleEn": "Staff's Affairs Management System for Menoufia University ",
+    "supervisorAr": "د /جمال سليم",
+    "supervisorEn": "Dr. Gamal Selim ",
+    "teamMembers": "ابراهيم جابر ابراهيم عبده - Backend Developer (Receive feature requirements, Design database changes, Create EF Core entities and migrations, Implement repository/service layer methods, Add DTOs, Create controller endpoints for Staff Member Info and Staff Job Info), صالح محمد نجيب صالح - Backend Developer (Receive feature requirements, Design database changes, Create EF Core entities and migrations, Implement repository/service layer methods, Add DTOs, Create controller endpoints for Staff Qualification, Staff Vacation, Staff Punishment, Staff Course, Staff Certificates of Appreciation, Staff Relations, Staff Degrees), رانيا محمد عبداللطيف سعد - Backend Developer (Receive feature requirements, Design database changes, Create EF Core entities and migrations, Implement repository/service layer methods, Add DTOs, Create controller endpoints for University Faculty Job, Job Type, Entedab Type, Nationality, Military State, Social State, Work Status), يوسف اشرف محمود خواجة - DevOps Engineer (Deployed staff affairs web app, configured IIS, installed/managing SQL Server, testing/troubleshooting, maintenance), عماد الدين عادل محمود رزق - DevOps Engineer (Same duties as يوسف اشرف محمود خواجة), احمد علي الدحدوح - DevOps Engineer (Same duties as above), نورهان سمير الشرقاوي - Software Tester (API testing, manual testing for all pages), اسراء ابراهيم احمد ابراهيم سليمان - Front-End Developer (React UI/UX design, Redux Toolkit state management, form validation, multi-browser testing for University Faculty Job, Job Type, Entedab Type, Nationality, Military State, Social State, Work Status), عمر عبد العزيز محمود التراس - Front-End Developer (React UI/UX, API consumption, error handling, performance optimization for Staff Member Info, Staff Job Info), محمد احمد عطية عثمان - Front-End Developer",
+    "descriptionAr": "نظام إدارة شؤون أعضاء هيئة التدريس بجامعة المنوفية يتيح تسجيل وحفظ بيانات أعضاء هيئة التدريس والهيئة المعاونة مركزياً: البيانات الشخصية، الوظيفية (الإشرافية، العلمية، الحالية، الانتداب)، المؤهلات العلمية، الدرجات العلمية، سجل الإجازات، التأديبات والجزاءات، مع إمكانية استخراج تقارير ملفات الأعضاء وتقارير إحصائية.",
+    "descriptionEn": "The Faculty Affairs Management System at Menoufia University enables centralized registration and record maintenance for faculty and supporting staff including personal details, job positions (supervisory, academic, current, secondment), academic qualifications, degrees, vacation history, disciplinary actions, and supports generating member profile and statistical reports.",
+    "technologies": "Backend: C# (Primary), ASP.NET Web API with .NET8, RESTful API, Swagger, AutoMapper, EF Core, LINQ, ASP.NET Core Identity, SQL Server; Frontend: React, Redux Toolkit, Material-UI, Emotion, MUI Data Grid, Formik & Yup, React Router, SweetAlert2, React Testing Library, Web Vitals, React Scripts; DevOps: Windows Server, IIS, Microsoft SQL Server, RDP, Firewall & Security Settings; Security: Burp Suite, OWASP ZAP, Nmap; Testing: Postman, Swagger",
+
     "category": "software",
     "documentUrl": "https://elengmenofiaedu-my.sharepoint.com/personal/ah_he_kasas_el-eng_menofia_edu_eg/_layouts/15/Doc.aspx?sourcedoc=%7BF7FCD0E8-C2DA-4795-AD20-FADA9E48A7DB%7D&file=Project%20Info_%D9%85%D8%B9%D8%A7%D8%B0%20%D8%A7%D9%86%D9%88%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%B3.docx&action=default&mobileredirect=true"
   }
