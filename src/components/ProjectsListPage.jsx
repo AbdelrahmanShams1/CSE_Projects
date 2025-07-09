@@ -220,7 +220,10 @@ const ProjectsListPage = ({ onProjectSelect }) => {
                       <div
                         className={`bg-[#176d6a] text-white font-medium inline-flex items-center mb-2`}
                       >
-                        <img src={project.imageUrl} />
+                        <img
+                          src={project.imageUrl}
+                          className="w-[350px] h-[200px]"
+                        />
                       </div>
                       <h3 className="text-lg font-bold text-gray-800">
                         {project.projectTitleAr}
