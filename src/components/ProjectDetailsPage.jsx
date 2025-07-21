@@ -1,4 +1,3 @@
-import React from "react";
 import {
   ArrowLeft,
   User,
@@ -56,7 +55,6 @@ const ProjectDetailsPage = ({ project, onBackToList }) => {
       style={{ fontFamily: "Cairo, sans-serif" }}
     >
       <div className="max-w-6xl mx-auto py-8 px-4">
-        {/* Header */}
         <div className="mb-8 flex justify-between items-center">
           <button
             onClick={onBackToList}
@@ -75,11 +73,8 @@ const ProjectDetailsPage = ({ project, onBackToList }) => {
           </div>
         </div>
 
-        {/* Project Details */}
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-          {/* Main Content */}
           <div className="lg:col-span-2 space-y-6">
-            {/* Project Header */}
             <div className="bg-white rounded-xl shadow-lg p-6 flex flex-col md:flex-row justify-between rtl items-center gap-6">
               <img
                 src={project.imageUrl}
@@ -96,7 +91,6 @@ const ProjectDetailsPage = ({ project, onBackToList }) => {
               </div>
             </div>
 
-            {/* Arabic Description */}
             <div className="bg-white rounded-xl shadow-lg p-6">
               <h2 className="text-xl font-semibold mb-4 text-gray-800 flex items-center gap-2">
                 <FileText className="w-5 h-5" style={{ color: "#176d6a" }} />
@@ -107,7 +101,6 @@ const ProjectDetailsPage = ({ project, onBackToList }) => {
               </p>
             </div>
 
-            {/* English Description */}
             <div className="bg-white rounded-xl shadow-lg p-6">
               <h2 className="text-xl font-semibold mb-4 text-gray-800 flex items-center gap-2">
                 <FileText className="w-5 h-5" style={{ color: "#176d6a" }} />
@@ -118,7 +111,6 @@ const ProjectDetailsPage = ({ project, onBackToList }) => {
               </p>
             </div>
 
-            {/* Technologies */}
             <div className="bg-white rounded-xl shadow-lg p-6">
               <h2 className="text-xl font-semibold mb-4 text-gray-800 flex items-center gap-2">
                 <Code className="w-5 h-5" style={{ color: "#176d6a" }} />
@@ -137,9 +129,7 @@ const ProjectDetailsPage = ({ project, onBackToList }) => {
             </div>
           </div>
 
-          {/* Sidebar */}
           <div className="space-y-6">
-            {/* Supervisor */}
             <div className="bg-white rounded-xl shadow-lg p-6">
               <h3 className="text-lg font-semibold mb-3 text-gray-800 flex items-center gap-2">
                 <User className="w-5 h-5" style={{ color: "#176d6a" }} />
@@ -155,7 +145,6 @@ const ProjectDetailsPage = ({ project, onBackToList }) => {
               </div>
             </div>
 
-            {/* Team Members */}
             <div className="bg-white rounded-xl shadow-lg p-6">
               <h3 className="text-lg font-semibold mb-3 text-gray-800 flex items-center gap-2">
                 <Users className="w-5 h-5" style={{ color: "#176d6a" }} />
@@ -175,7 +164,6 @@ const ProjectDetailsPage = ({ project, onBackToList }) => {
               </div>
             </div>
 
-            {/* Project Info */}
             <div className="bg-white rounded-xl shadow-lg p-6">
               <h3 className="text-lg font-semibold mb-3 text-gray-800 flex items-center gap-2">
                 <Calendar className="w-5 h-5" style={{ color: "#176d6a" }} />
@@ -199,7 +187,6 @@ const ProjectDetailsPage = ({ project, onBackToList }) => {
               </div>
             </div>
 
-            {/* Document Link */}
             <div className="bg-white rounded-xl shadow-lg p-6">
               <h3 className="text-lg font-semibold mb-3 text-gray-800">
                 الوثائق

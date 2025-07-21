@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import {
   ChevronRight,
   ChevronLeft,
@@ -34,13 +34,11 @@ const ProjectsListPage = ({ onProjectSelect }) => {
       ? projects
       : projects.filter((project) => project.category === filterCategory);
 
-  // حساب الصفحات
   const totalPages = Math.ceil(filteredProjects.length / projectsPerPage);
   const startIndex = (currentPage - 1) * projectsPerPage;
   const endIndex = startIndex + projectsPerPage;
   const currentProjects = filteredProjects.slice(startIndex, endIndex);
 
-  // إعادة تعيين الصفحة عند تغيير الفلتر
   const handleFilterChange = (category) => {
     setFilterCategory(category);
     setCurrentPage(1);
@@ -63,7 +61,6 @@ const ProjectsListPage = ({ onProjectSelect }) => {
     }
   };
 
-  // مكون Pagination
   const PaginationComponent = () => {
     if (totalPages <= 1) return null;
 
@@ -144,11 +141,8 @@ const ProjectsListPage = ({ onProjectSelect }) => {
       style={{ fontFamily: "Cairo, sans-serif" }}
     >
       <div className="max-w-7xl mx-auto py-8 px-4">
-        {/* Header */}
         <div className="text-center mb-8">
-          {/* Container للصور واللوجو */}
           <div className="flex justify-between items-center mb-6">
-            {/* الصورة على الشمال */}
             <div className="w-[50px] h-[50px] md:w-[150px] md:h-[70px]">
               <img
                 src="/WhatsApp Image 2025-07-08 at 10.00.12_4be6af3a.jpg"
@@ -157,7 +151,6 @@ const ProjectsListPage = ({ onProjectSelect }) => {
               />
             </div>
 
-            {/* المحتوى في المنتصف */}
             <div className="flex-1 px-4">
               <h1 className="text-3xl md:text-4xl font-bold text-gray-800 mb-2">
                 مشاريع التخرج
@@ -174,7 +167,6 @@ const ProjectsListPage = ({ onProjectSelect }) => {
               ></div>
             </div>
 
-            {/* لوجو الجامعة على اليمين */}
             <div className="w-20 h-20 md:w-24 md:h-24">
               <img
                 src="/WhatsApp Image 2025-07-08 at 09.59.08_163a64a9.jpg"
@@ -185,7 +177,6 @@ const ProjectsListPage = ({ onProjectSelect }) => {
           </div>
         </div>
 
-        {/* Filter Section */}
         <div className="mb-8">
           <div className="flex items-center gap-4 mb-4">
             <Filter className="w-5 h-5" style={{ color: "#176d6a" }} />
@@ -217,7 +208,6 @@ const ProjectsListPage = ({ onProjectSelect }) => {
           </div>
         </div>
 
-        {/* Projects Grid */}
         <div className="grid grid-cols-1 md:grid-cols-4 gap-3">
           {currentProjects.map((project) => {
             return (
@@ -273,9 +263,6 @@ const ProjectsListPage = ({ onProjectSelect }) => {
           <PaginationComponent />
         </div>
 
-        {/* Pagination */}
-
-        {/* Projects Summary */}
         <div className="mt-8 text-center">
           <div className="space-y-2">
             <p className="text-gray-600">
