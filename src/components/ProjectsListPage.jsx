@@ -67,13 +67,24 @@ const ProjectsListPage = ({ onProjectSelect }) => {
   const PaginationComponent = () => {
     if (totalPages <= 1) return null;
 
+    const visiblePages = 3;
+    const half = Math.floor(visiblePages / 2);
+
+    let startPage = Math.max(currentPage - half, 1);
+    let endPage = startPage + visiblePages - 1;
+
+    if (endPage > totalPages) {
+      endPage = totalPages;
+      startPage = Math.max(endPage - visiblePages + 1, 1);
+    }
+
     const pageNumbers = [];
-    for (let i = 1; i <= totalPages; i++) {
+    for (let i = startPage; i <= endPage; i++) {
       pageNumbers.push(i);
     }
 
     return (
-      <div className="flex justify-center items-center gap-2 mt-8">
+      <div className="flex justify-center items-center gap-2 mt-8 flex-wrap">
         {/* زر الصفحة السابقة */}
         <button
           onClick={() => setCurrentPage((prev) => Math.max(prev - 1, 1))}
@@ -259,10 +270,10 @@ const ProjectsListPage = ({ onProjectSelect }) => {
               </div>
             );
           })}
+          <PaginationComponent />
         </div>
 
         {/* Pagination */}
-        <PaginationComponent />
 
         {/* Projects Summary */}
         <div className="mt-8 text-center">
